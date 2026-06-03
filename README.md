@@ -48,7 +48,7 @@ Three Machine Learning models were trained and compared:
 * Linear Regression
 * Decision Tree Regressor
 * Random Forest Regressor
-
+<img width="2700" height="1500" alt="models_comparison" src="https://github.com/user-attachments/assets/7c652abe-1e7a-4125-ba93-4109b3ec86f4" />
 The best-performing model was selected based on evaluation metrics.
 
 ### 3. Model Evaluation
@@ -142,4 +142,5 @@ Machine Learning Engineer | Data Analyst
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-```
+```<img width="2700" height="1500" alt="models_comparison" src="https://github.com/user-attachments/assets/7c652abe-1e7a-4125-ba93-4109b3ec86f4" />
+
